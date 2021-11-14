@@ -32,14 +32,15 @@ i {
 }
 
 .bank {
-  width: 40%;
-  border: 1px solid;
+  width: 30%;
   text-align: center;
   height: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: auto;
+  border-left: 1px solid black;
 }
 
 .bank p:nth-child(1){
@@ -93,7 +94,6 @@ i {
   justify-content: center;
   align-items: center;
   height: auto;
-  border: 1px solid;
 }
 
 .img-div {
